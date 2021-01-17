@@ -1,0 +1,14 @@
+.todolist {
+  width: 20%;
+  margin-top: 5%;
+  display: grid;
+  position: absolute;
+  right: 40%;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #42494d;
+}
+
+.todolist:hover {
+  border: 3px solid rgb(83, 54, 189);
+}

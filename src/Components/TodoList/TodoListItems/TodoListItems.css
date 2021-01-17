@@ -1,0 +1,22 @@
+.todolist-items {
+  display: flex;
+  padding-bottom: 3%;
+  border-radius: 2px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+
+  justify-content: space-between;
+  padding: 7px;
+  align-items: center;
+}
+
+.todo-icons {
+  display: flex;
+}
+
+.todolist-items:hover {
+  border: 3px solid rgb(83, 54, 189);
+}
+
+.text-field {
+  padding-bottom: 4% !important;
+}
